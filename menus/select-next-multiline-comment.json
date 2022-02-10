@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Next select-next-multiline-comment",
+        "command": "select-next-multiline-comment:next"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "select-next-multiline-comment",
+          "submenu": [
+            {
+              "label": "Next",
+              "command": "select-next-multiline-comment:next"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

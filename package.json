@@ -1,0 +1,18 @@
+{
+  "name": "select-next-multiline-comment",
+  "main": "./lib/select-next-multiline-comment",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "select-next-multiline-comment:next"
+  },
+  "repository": "https://github.com/atom/select-next-multiline-comment",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
