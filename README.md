@@ -10,4 +10,4 @@ placeholder fields.
 
 ```ctrl-alt-n : select-next-multiline-comment:next```
 
-![Usage](https://github.com/Noah-Schoonover/select-next-multiline-comment/blob/main/demos/demo.gif)
+![demo_gif](https://github.com/Noah-Schoonover/select-next-multiline-comment/blob/main/demos/demo.gif)
