@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "select-next-multiline-comment:next"
+    "ctrl-tab": "select-next-multiline-comment:next"
   }
 }
