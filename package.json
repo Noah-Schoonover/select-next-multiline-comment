@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "select-next-multiline-comment:next"
   },
-  "repository": "https://github.com/Noah-Schoonover/select-next-multiline-comment",
+  "repository": "https://github.com/Noah-Schoonover/select-next-multiline-comment.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
