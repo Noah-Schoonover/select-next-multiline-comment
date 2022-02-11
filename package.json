@@ -1,7 +1,7 @@
 {
   "name": "select-next-multiline-comment",
   "main": "./lib/select-next-multiline-comment",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Selects the next multiline style comment within one line.",
   "keywords": [
   ],
